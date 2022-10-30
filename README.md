@@ -9,6 +9,8 @@
 
 - views/vuexy
   - admin
+    - [index.html](vuexy/admin/index.png)
+    - [index_dark.html](vuexy/admin/index_dark.png)
   - auth
     - [login.html](vuexy/login.png)
     - [login_dark.html](vuexy/login_dark.png)
