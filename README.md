@@ -1,8 +1,8 @@
-# SSPanel 主题
+## SSPanel 主题
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
 
-# Vuexy 版本
+## Vuexy 版本
 - [演示站运营ing...](https://dggyun.com)
 - 账号: <dt>test@gmail.com</dt>
 - 密码: <dt>123456abc</dt>
@@ -31,7 +31,7 @@
 - [index.html](vuexy/index.png)
 - [index_dark.html](vuexy/index_dark.png)
 
-## 全局功能
+### 全局功能
 <dt>支持中英文切换</dt>
 <dt>夜间和日间主题切换</dt>
 <dt>User页面和Admin页面都是统一主题优化</dt>
