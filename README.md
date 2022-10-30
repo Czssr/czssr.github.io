@@ -48,3 +48,6 @@
 <dt>常见问题FAQ和帮助教程助力客户尽快上手</dt>
 ![faq.html](vuexy/user/faq.png)
 ![help.html](vuexy/user/help.png)
+
+### 联系Telegram
+- [@SurTimi](https://t.me/SurTimi)
