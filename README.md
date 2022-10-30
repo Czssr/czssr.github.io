@@ -11,6 +11,10 @@
     - [register.html](vuexy/register.png)
     - [register_dark.html](vuexy/register_dark.png)
   - password
+    - [reset.html](vuexy/password_reset.png)
+    - [reset_dark.html](vuexy/password_reset_dark.png)
+    - [token.html](vuexy/reset_token.png)
+    - [token_dark.html](vuexy/reset_token_dark.png)
   - user
     - agent.html
     - index.html
