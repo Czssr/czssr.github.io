@@ -37,7 +37,9 @@
 <dt>夜间和日间主题切换</dt>
 <dt>User页面和Admin页面都是统一主题优化</dt>
 <dt>(Oauth2.0)Telegram、Github、Google快捷登陆和 快捷注册</dt>
+
 ![Login page for Vuexy theme](https://raw.githubusercontent.com/Czssr/czssr.github.io/main/vuexy/login.png)
+
 ![Login page for Vuexy dark theme](https://raw.githubusercontent.com/Czssr/czssr.github.io/main/vuexy/login_dark.png)
 <dt>丰富的邀请奖励/新手引导设计</dt>
 ![Invite.html](vuexy/user/invite.png)
