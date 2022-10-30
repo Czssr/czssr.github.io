@@ -38,3 +38,8 @@
 <dt>(Oauth2.0)Telegram、Github、Google快捷登陆和 快捷注册</dt>
 ![Login page for Vuexy theme](vuexy/login.png)
 ![Login page for Vuexy dark theme](vuexy/login_dark.png)
+<dt>丰富的邀请奖励/新手引导设计</dt>
+![Invite.html](vuexy/user/invite.png)
+<dt>快捷的编辑资料</dt>
+![user_edit.html](vuexy/admin/user_edit.png)
+![node_edit.html](vuexy/admin/node_edit.png)
