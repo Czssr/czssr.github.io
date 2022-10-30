@@ -32,11 +32,9 @@
 - [index_dark.html](vuexy/index_dark.png)
 
 #### 全局功能
-*   <dt>(Oauth2.0)</dt>Telegram、Github、Google快捷登陆和 快捷注册
+
 *   夜间和日间主题切换
 *   支持中英文切换
-
-#### Login page
-*   包含Telegram、Github、Google快捷登陆(Oauth2.0)
+*   <dt>(Oauth2.0)</dt>Telegram、Github、Google快捷登陆和 快捷注册
 ![Login page for Vuexy theme](vuexy/login.png)
 ![Login page for Vuexy dark theme](vuexy/login_dark.png)
