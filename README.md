@@ -41,15 +41,25 @@
 ![Login page for Vuexy theme](https://raw.githubusercontent.com/Czssr/czssr.github.io/main/vuexy/login.png)
 
 ![Login page for Vuexy dark theme](https://raw.githubusercontent.com/Czssr/czssr.github.io/main/vuexy/login_dark.png)
+
 <dt>丰富的邀请奖励/新手引导设计</dt>
+
 ![Invite.html](vuexy/user/invite.png)
+
 <dt>快捷的编辑资料</dt>
+
 ![user_edit.html](vuexy/admin/user_edit.png)
+
 ![node_edit.html](vuexy/admin/node_edit.png)
+
 <dt>丰富的公告管理</dt>
+
 ![ann.html](vuexy/admin/ann.png)
+
 <dt>常见问题FAQ和帮助教程助力客户尽快上手</dt>
+
 ![faq.html](vuexy/user/faq.png)
+
 ![help.html](vuexy/user/help.png)
 
 ### 联系Telegram
