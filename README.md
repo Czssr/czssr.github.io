@@ -22,8 +22,6 @@
   - user
     - [agent.html](vuexy/user/agent.png)
     - [agent_dark.html](vuexy/user/agent_dark.png)
-    - [bought.html]
-    - [bought_dark.html]
     - [index.html](vuexy/user/index.png)
     - [index_dark.html](vuexy/user/index_dark.png)
     - [index_english.html](vuexy/user/index_english.png)
