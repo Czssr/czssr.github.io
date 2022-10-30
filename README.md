@@ -4,8 +4,8 @@
 
 # Vuexy 版本
 - [<dt>演示站(运营ing...)</dt>](https://dggyun.com)
-- 账号: test@gmail.com
-- 密码: 123456abc
+- 账号: <dt>test@gmail.com</dt>
+- 密码: <dt>123456abc</dt>
 
 - views/vuexy
   - admin
@@ -32,9 +32,8 @@
 - [index_dark.html](vuexy/index_dark.png)
 
 #### 全局功能
-
-*   夜间和日间主题切换
-*   支持中英文切换
-*   <dt>(Oauth2.0)</dt>Telegram、Github、Google快捷登陆和 快捷注册
+<dt>夜间和日间主题切换</dt>
+<dt>支持中英文切换</dt>
+<dt>(Oauth2.0)</dt>Telegram、Github、Google快捷登陆和 快捷注册
 ![Login page for Vuexy theme](vuexy/login.png)
 ![Login page for Vuexy dark theme](vuexy/login_dark.png)
