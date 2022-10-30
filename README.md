@@ -16,14 +16,19 @@
     - [token.html](vuexy/reset_token.png)
     - [token_dark.html](vuexy/reset_token_dark.png)
   - user
-    - agent.html
-    - index.html
+    - [agent.html](vuexy/user/agent.png)
+    - [agent_dark.html](vuexy/user/agent_dark.png)
+    - [index.html](vuexy/user/index.png)
+    - [index_dark.html](vuexy/user/index_dark.png)
+    - [index_english.html](vuexy/user/index_english.png)
+    - [index_english_dark.html](vuexy/user/index_english_dark.png)
 - [index.html](vuexy/index.png)
 - [index_dark.html](vuexy/index_dark.png)
 
-## Index page
-![Index page for Vuexy theme](vuexy/index.png)
-![Index page for Vuexy dark theme](vuexy/index_dark.png)
+## 全局功能
+#### (Oauth2.0)Telegram、Github、Google快捷登陆和 快捷注册
+#### 夜间和日间主题切换
+#### 支持中英文切换
 
 ## Login page
 #### 包含Telegram、Github、Google快捷登陆(Oauth2.0)
