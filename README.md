@@ -4,8 +4,8 @@
 
 ## Vuexy 版本
 - [演示站运营ing...](https://dggyun.com)
-- 账号: <dt>test@gmail.com</dt>
-- 密码: <dt>123456abc</dt>
+- <dt>账号: test@gmail.com</dt>
+- <dt>密码: 123456abc</dt>
 
 - views/vuexy
   - admin
