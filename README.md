@@ -50,5 +50,5 @@
 ![help.html](vuexy/user/help.png)
 
 ### 联系Telegram
-- [@SurTimi](https://t.me/SurTimi)
+[@SurTimi](https://t.me/SurTimi)
 <dt>Email: binbin99138@gmail.com</dt>
