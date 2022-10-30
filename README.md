@@ -7,6 +7,7 @@
 - <dt>账号: test@gmail.com</dt>
 - <dt>密码: 123456abc</dt>
 
+
 - views/vuexy
   - admin
     - [index.html](vuexy/admin/index.png)
