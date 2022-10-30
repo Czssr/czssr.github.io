@@ -43,3 +43,8 @@
 <dt>快捷的编辑资料</dt>
 ![user_edit.html](vuexy/admin/user_edit.png)
 ![node_edit.html](vuexy/admin/node_edit.png)
+<dt>丰富的公告管理</dt>
+![ann.html](vuexy/admin/ann.png)
+<dt>常见问题FAQ和帮助教程助力客户尽快上手</dt>
+![faq.html](vuexy/user/faq.png)
+![help.html](vuexy/user/help.png)
